@@ -1,5 +1,6 @@
 # TG-AUTO-REPLY-SRC
 🤖 Auto-Reply Bot 
+NEED API 🆔 AND HASH
 Never leave your community hanging! Our new Auto-Reply feature is officially live. Whether you are away from your desk, sleeping, or managing a massive influx of messages, this bot has your back 24/7.
 ✨ What’s New:
 Instant Responses: Instantly reply to common questions, greetings, or keywords.
